@@ -2,6 +2,8 @@
 
 C++ code and analysis scripts to run compact U(1) lattice gauge theory. Prepared for the Swansea Univsersity Physics Journal Club.
 
+The C++ code in `code/` uses a Metropolis followed by an overelaxation step to sample the gauge theory.
+
 ## Usage
 
 To compile the lattice executable:
